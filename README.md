@@ -24,7 +24,7 @@ Interactive Dashboards: Creating dynamic and interactive dashboards for data pre
 KPI Dashboards: Developing Key Performance Indicator (KPI) dashboards for performance monitoring.
 
 Report Development
-Report Formatting: Ensuring reports are well-formatted, easy to read, and visually appealing.
+Ensuring reports are well-formatted, easy to read, and visually appealing.
 Page Navigation: Implementing effective page navigation for a seamless user experience.
 
 Data Integration
